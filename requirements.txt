@@ -1,0 +1,13 @@
+streamlit 
+langchain 
+langchain_ollama
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+<<<<<<< HEAD
+groq
+=======
+langchain-groq
+>>>>>>> 7c30e159a36a1a357ef30f23ac490356f79c8046
